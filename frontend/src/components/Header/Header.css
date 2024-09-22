@@ -1,7 +1,7 @@
 .header{
     height: 34vw;
     margin: 30px auto;
-    background: url('https://asset.cloudinary.com/dfbk4ughs/88b969eb4765cab36bb4ceb4ac874ea8') no-repeat;
+    background: url('https://res.cloudinary.com/dfbk4ughs/image/upload/v1727028212/header_img_dksapu.png') no-repeat;
     background-size: contain;
     position: relative;
 }
