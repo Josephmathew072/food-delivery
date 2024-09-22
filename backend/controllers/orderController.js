@@ -17,7 +17,7 @@ const placeOrder = async (req, res) => {
       items: req.body.items,
       amount: req.body.amount,
       address: req.body.address,
-    //   cod: false,
+      cod: false,
     });
 
     const line_items = req.body.items.map((item) => ({
