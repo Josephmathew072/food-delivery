@@ -1,7 +1,7 @@
 .header{
     height: 34vw;
     margin: 30px auto;
-    background: url('header_img.png') no-repeat;
+    background: url('https://asset.cloudinary.com/dfbk4ughs/88b969eb4765cab36bb4ceb4ac874ea8') no-repeat;
     background-size: contain;
     position: relative;
 }
