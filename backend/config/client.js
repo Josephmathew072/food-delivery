@@ -1,1 +1,1 @@
-export const CLIENT_DOMAIN = "http://localhost:3000";
+export const CLIENT_DOMAIN = "https://food-delivery-frontend-352w.onrender.com";
