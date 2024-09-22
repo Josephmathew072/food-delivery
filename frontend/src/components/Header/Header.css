@@ -1,7 +1,7 @@
 .header{
     height: 34vw;
     margin: 30px auto;
-    background: url('C:\Users\johna\OneDrive\Desktop\joseph\Projects\Food Delivery App\food-delivery\frontend\public\header_img.png') no-repeat;
+    background: url('frontend/public/header_img.png') no-repeat;
     background-size: contain;
     position: relative;
 }
