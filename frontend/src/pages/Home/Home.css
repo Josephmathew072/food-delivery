@@ -1,0 +1,23 @@
+.fixed-icon {
+    position: fixed;
+    right: 20px; 
+    bottom: 20px; 
+    z-index: 1000;
+}
+
+.arrow-icon {
+    font-size: 36px;
+    color: #000;
+    transition: transform 0.2s;
+}
+
+
+.arrow-icon:hover {
+    transform: scale(1.1); 
+}
+@media (max-width: 750px) {
+    .arrow-icon {
+        font-size: 24px;
+    }
+    
+}
